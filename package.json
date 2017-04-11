@@ -1,0 +1,17 @@
+{
+  "name": "bloxley-seq",
+  "version": "0.0.1",
+  "description": "A neural net based sequencer for Bloxley",
+  "main": "src/bloxley_seq.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mark Josef",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^19.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
